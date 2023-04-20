@@ -1,4 +1,4 @@
-module github.com/kjellern98/mycrypto
+module github.com/kjellern98/sem03simpleclient
 
 go 1.18
 
